@@ -23,7 +23,7 @@ Dilate the Image
  
 ## Program:
 ```
-Name: Arun Kumar
+Name: ARUN KUMAR SUKDEV CHAVAN
 Reg No: 212222230013
 
 # Import the necessary packages
